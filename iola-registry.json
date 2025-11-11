@@ -1,0 +1,13 @@
+{
+  "name": "IOLA",
+  "symbol": "IOLA",
+  "decimals": 6,
+  "tokenId": "0xd1aae85cec9f721d10112687404f05c818e97bf5401c1a7b008d69c067e5dcea::IolaCoin::IOLACOIN",
+  "packageId": "0xd1aae85cec9f721d10112687404f05c818e97bf5401c1a7b008d69c067e5dcea",
+  "treasuryCapObjectId": "0x7b2fcaea8882e35dd2924bf38c53dccc7de10e3f55aae8a28dd6865760cf60b0",
+  "metadataObjectId": "0x02592ed62ef16dc249818c60fdfc0af90dd14fee2b282528b3d20e998ddacb6b",
+  "upgradeCapObjectId": "0x226f4e78840827bf43e4fdbb24da8f91c513307bff93a40e454f2f006ea6e7af",
+  "issuer": "0x7ced4d4ecd908eeffadb32773cbd7d466626d995fa4e1ffa4a8c958a3bc46611",
+  "network": "iota-testnet-rebased",
+  "description": "Interbella IOLA coin for Spatial Web AI agents (IEEE Spatial Web)."
+}
