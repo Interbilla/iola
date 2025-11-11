@@ -1,3 +1,12 @@
+# IOLA (Interbella)
+
+- **Token ID:** `0xd1aae85c...e5dcea::IolaCoin::IOLACOIN`
+- **Decimals:** 6
+- **Network:** IOTA Rebased Testnet
+- **Issuer:** `0x7ced4d4e...bc46611`
+
+This repo serves as the canonical on-chain/off-chain registry for IOLA.
+
 # iola
 IOLA Coin proof-of-record and token registry
 
